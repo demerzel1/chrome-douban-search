@@ -1,0 +1,13 @@
+{
+  "name": "douban search",
+  "description": "Add douban search to Context Menu",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["search.js"]
+  },
+  "icons": {
+    "16": "favicon.ico"
+  },
+  "manifest_version": 2
+}
